@@ -1,0 +1,6 @@
+﻿  main.cpp
+\\mac\home\documents\visual studio 2015\projects\facialrecognization\facialrecognization\main.cpp(72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\facialrecognization\facialrecognization\main.cpp(73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\facialrecognization\facialrecognization\main.cpp(83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  facialRecognization.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\facialRecognization\Debug\facialRecognization.exe
+  facialRecognization.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\facialRecognization\Debug\facialRecognization.pdb (Partial PDB)

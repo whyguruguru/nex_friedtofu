@@ -1,0 +1,13 @@
+﻿已經開始建置於 2017/3/18 下午 02:26:27。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\NB-06\Desktop\opencv\2017_0318_exe7_VideoStore\2017_0318_exe7_VideoStore\2017_0318_exe7_VideoStore.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\NB-06\Desktop\opencv\2017_0318_exe7_VideoStore\Debug\2017_0318_exe7_VideoStore.exe" /INCREMENTAL /NOLOGO opencv_core2413d.lib opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_features2d2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\NB-06\Desktop\opencv\2017_0318_exe7_VideoStore\Debug\2017_0318_exe7_VideoStore.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\NB-06\Desktop\opencv\2017_0318_exe7_VideoStore\Debug\2017_0318_exe7_VideoStore.lib" /MACHINE:X86 Debug\main.obj
+         2017_0318_exe7_VideoStore.vcxproj -> C:\Users\NB-06\Desktop\opencv\2017_0318_exe7_VideoStore\Debug\2017_0318_exe7_VideoStore.exe
+     1>專案 "C:\Users\NB-06\Desktop\opencv\2017_0318_exe7_VideoStore\2017_0318_exe7_VideoStore\2017_0318_exe7_VideoStore.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:04.24
